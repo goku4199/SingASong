@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 2,
+    "Title": "Electric Grooves",
+    "Artist": "The Funky Band",
+    "Price": 12.99
+  },
+  {
+    "Id": 3,
+    "Title": "Acoustic Serenity",
+    "Artist": "Melody Weaver",
+    "Price": 9.99
+  },
+  {
+    "Id": 4,
+    "Title": "Rock Legends Collection",
+    "Artist": "Epic Rockers",
+    "Price": 19.99
+  },
+  {
+    "Id": 5,
+    "Title": "Pop Hits of the Decade",
+    "Artist": "Chart Toppers",
+    "Price": 15.99
+  },
+  {
+    "Id": 6,
+    "Title": "sf",
+    "Artist": "wf",
+    "Price": 1
+  },
+  {
+    "Id": 7,
+    "Title": "sdd",
+    "Artist": "dd",
+    "Price": 11
+  }
+]
